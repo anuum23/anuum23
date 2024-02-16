@@ -1,8 +1,7 @@
 👋 Hi, I’m Anum Aamir
 - I’m interested in Programming and Web development.
-- I've worked on several projects in C++ and Python.
-- I’m currently learning full Stack web development. 
-- I’m looking to collaborate on software projects and websites development.
+- I've worked on several projects in WordPress, Shopify, Core PHP & Laravel.
+- I’m looking to collaborate on software projects and website development.
 
 Reach me at anum.aamir236@gmail.com
 
